@@ -79,3 +79,21 @@ button:hover {
     z-index: 0;
     visibility: hidden;
 }
+.zone{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* espace entre les 2 blocs */
+}
+
+#depot-text form{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#description{
+  margin-top: 10px;
+  width: 250px;
+  height: 80px;
+}

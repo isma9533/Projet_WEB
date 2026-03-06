@@ -193,7 +193,7 @@ max-width: 500px;
     border: 3px dashed rgb(205, 121, 37);
     border-radius: 10px;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     text-align: center;
     color: grey;
